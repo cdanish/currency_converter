@@ -1,0 +1,12 @@
+# Ignore all node_modules folders in the project
+**/node_modules/
+
+# Optional: ignore build/output files
+**/dist/
+**/build/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
