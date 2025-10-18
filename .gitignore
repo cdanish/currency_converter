@@ -10,3 +10,7 @@
 
 # Ignore system files
 .DS_Store
+
+# Ignore packagelock.json file form backend and forntend
+backend/package-lock.json
+frontend/package-lock.json
